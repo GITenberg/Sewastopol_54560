@@ -1,0 +1,29 @@
+_repo: Sewastopol_54560
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cissarz, J. V.
+    gutenberg_agent_id: '47928'
+    url: http://www.gutenberg.org/2009/agents/47928
+creator:
+  author:
+    agent_name: Tolstoj, Leo N.
+    gutenberg_agent_id: '47926'
+    url: http://www.gutenberg.org/2009/agents/47926
+  editor:
+    agent_name: Löwenfeld, Raphael
+    gutenberg_agent_id: '47927'
+    url: http://www.gutenberg.org/2009/agents/47927
+description: ''
+gutenberg_issued: '2017-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54560'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sewastopol
+url: http://www.gutenberg.org/ebooks/54560
